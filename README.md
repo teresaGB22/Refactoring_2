@@ -43,7 +43,7 @@ h. Realice una función que muestre todos los productos(nombre y stock) cuyo sto
 debajo del stock de seguridad. Esta función se debe invocar cuando el usuario seleccione la
 opción del menú.
 
-
+ej1: cambie el if else por un switch y para que funcionara coloque la variable sin inicializar de resultado fuera de el (Haz un bucle para que funcione bien el menú).
 Ej4: verifica si un carácter es una letra y, dependiendo de si se elige "m" o "M", verifica si la letra es minúscula o mayúscula, respectivamente.
 
 Ej5: Crea una jerarquía de clases para representar vehículos. La clase base se llamará Vehiculo y tendrá atributos comunes como marca, modelo, año y velocidad máxima. A partir de esta clase, crea dos clases derivadas: Coche (con un atributo adicional numPuertas) y Motocicleta (con un atributo adicional tieneSidecar). Cada clase debe tener un método mostrarInformacion que imprima los detalles del vehículo, y las clases derivadas deben sobrescribir este método para agregar su información específica. En el método principal, crea instancias de un coche y una motocicleta y muestra su información.
